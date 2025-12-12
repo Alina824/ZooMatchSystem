@@ -1,0 +1,12 @@
+node_modules
+target
+.mvn
+mvnw
+mvnw.cmd
+.DS_Store
+.idea
+.git
+.gitignore
+
+
+
